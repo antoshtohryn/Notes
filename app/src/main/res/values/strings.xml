@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab_4</string>
+    <string name="b_1">Add</string>
+    <string name="b_2">Delete</string>
+    <string name="note_name">Name:</string>
+    <string name="note_text">Text:</string>
+    <string name="save">Save</string>
+    <string name="msg_last_saved_note">last</string>
+    <string name="add_note">Add</string>
+    <string name="remove_note">Delete</string>
+    <string name="b_delete">Delete</string>
+    <string name="b_deleteAll">Clear all</string>
+</resources>
